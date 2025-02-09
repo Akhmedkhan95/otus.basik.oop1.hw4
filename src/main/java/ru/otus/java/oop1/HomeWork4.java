@@ -4,7 +4,7 @@ public class HomeWork4 {
     public static void main(String[] args) {
         int date = 2025;
         User[] users = {
-                new User("Канторович", "Леонид", "Витальевич", 1912, "L.K.V.@mail.ru"),
+                new User("Канторович", "Леонид", "Витальевич", 1914, "L.K.V.@mail.ru"),
                 new User("Колмогоров", "Андрей", "Николаевич", 1903, "A.K.N.@mail.ru"),
                 new User("Перельман", "Григорий", "Яковлевич", 1966, "G.Y.P.@mail.ru"),
                 new User("Ковалевская", "Наташа", "Леонидовна", 1978, "N.K.L.@mail.ru"),
